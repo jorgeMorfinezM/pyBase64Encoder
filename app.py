@@ -3,11 +3,11 @@
 Requires Python 3.0 or later
 """
 
-__author__ = "Jorge Morfinez Mojica (jorgemorfinez@ofix.mx)"
+__author__ = "Jorge Morfinez Mojica (jorge.morfinez.m@gmail.com)"
 __copyright__ = "Copyright 2019, Jorge Morfinez Mojica"
-__license__ = "Ofix S.A. de C.V."
+__license__ = "Apache 2.0"
 __history__ = """ """
-__version__ = "1.19.H10.Prod ($Rev: 1 $)"
+__version__ = "1.19.I11.Prod ($Rev: 3 $)"
 
 
 import base64
